@@ -1,0 +1,10 @@
+C:\temp\tstWin\tstWin\bin\Debug\tstWin.exe.config
+C:\temp\tstWin\tstWin\bin\Debug\tstWin.exe
+C:\temp\tstWin\tstWin\bin\Debug\tstWin.pdb
+C:\temp\tstWin\tstWin\obj\Debug\tstWin.csprojResolveAssemblyReference.cache
+C:\temp\tstWin\tstWin\obj\Debug\tstWin.frm2.resources
+C:\temp\tstWin\tstWin\obj\Debug\tstWin.Properties.Resources.resources
+C:\temp\tstWin\tstWin\obj\Debug\tstWin.csproj.GenerateResource.Cache
+C:\temp\tstWin\tstWin\obj\Debug\tstWin.exe
+C:\temp\tstWin\tstWin\obj\Debug\tstWin.pdb
+C:\temp\tstWin\tstWin\obj\Debug\tstWin.Form1.resources
